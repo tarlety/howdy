@@ -1,3 +1,7 @@
+howdy (2.5.1.ppa2) xenial; urgency=medium
+
+ -- Tarle Ty (ppa) <tarlety@gmail.com>  Tue, 21 May 2019 22:02:00 +0800
+
 howdy (2.5.1) xenial; urgency=medium
 
   * Removed dismiss_lockscreen as it could lock users out of their system (thanks @ujjwalbe, @ju916 and many others!)
